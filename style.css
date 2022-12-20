@@ -1,6 +1,13 @@
-body{
+/* body{
     background-color: #1e1e1e;
     margin: 0;
     overflow: hidden;
     background-repeat: no-repeat;
-}
+} */
+
+#canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
